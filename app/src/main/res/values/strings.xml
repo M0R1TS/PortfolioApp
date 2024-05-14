@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PortfolioApp</string>
+    
+    <string name="internet_text">Hello, if anyone is reading this, I am truly touched, I practice programming and really want to create something truly aesthetically beautiful and mesmerizing, I like working with unusual forms of applications and thank you again for reading this.</string>
+    <string name="job_name">Programmer</string>
+    <string name="internet_text2">I don’t expect much, I want to gain experience and interact with real professionals, I would like to understand from the inside how and what works and of course help.</string>
+    <string name="internet_text3">I do not have a specialized education, I study in courses and on my own, I try to practice and read literature, now I am interested in Computer Architecture and I devote a lot of time to this.</string>
+    <string name="dmitry_nsokovykh">Dmitry\nSokovykh</string>
+    <string name="expectations_from_work">Expectations From Work</string>
+    <string name="education">Education</string>
+    Б
+</resources>
